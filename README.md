@@ -1,2 +1,2 @@
 # 1109895
-Sorawit's pdf website backup
+Old backup of a static site. Not indicative of current coding practices.
